@@ -3,5 +3,4 @@ pandas
 plotly==5.20.0
 python-dotenv
 slack_sdk
-python-dateutil
-sqlite3  
+python-dateutil 
